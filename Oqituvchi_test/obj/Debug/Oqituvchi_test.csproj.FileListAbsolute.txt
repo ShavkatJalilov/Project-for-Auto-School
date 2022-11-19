@@ -1,0 +1,143 @@
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.exe.config
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.exe
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.pdb
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\bin\Debug\Guna.UI2.dll
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.AssemblyReference.cache
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Properties.Resources.resources
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.GenerateResource.cache
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.CoreCompileInputs.cache
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.CopyComplete
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.exe
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.pdb
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SavolQoshish.resources
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SavolTahrirlash.resources
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SKorishVaOchirish.resources
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.TalabaNatijalari.resources
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Form1.resources
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.testishlash.resources
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.TestBoshlash.resources
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Loading.resources
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\bin\Debug\SplashScreen.dll
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Admin.resources
+C:\Users\jamsh\source\repos\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.TalabaNatija.resources
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.exe.config
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.exe
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.pdb
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\bin\Debug\Guna.UI2.dll
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\bin\Debug\SplashScreen.dll
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.AssemblyReference.cache
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Admin.resources
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SavolQoshish.resources
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SavolTahrirlash.resources
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SKorishVaOchirish.resources
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.TalabaNatijalari.resources
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Form1.resources
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Loading.resources
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Properties.Resources.resources
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.TalabaNatija.resources
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.TestBoshlash.resources
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.testishlash.resources
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.GenerateResource.cache
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.CoreCompileInputs.cache
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.CopyComplete
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.exe
+C:\Users\jamsh\Desktop\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.pdb
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csprojAssemblyReference.cache
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Admin.resources
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SavolQoshish.resources
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SavolTahrirlash.resources
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SKorishVaOchirish.resources
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Form1.resources
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Loading.resources
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Properties.Resources.resources
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.TalabaNatija.resources
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.TestBoshlash.resources
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.testishlash.resources
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.GenerateResource.cache
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.CoreCompileInputs.cache
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.exe
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.pdb
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.exe.config
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.exe
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.pdb
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Guna.UI2.dll
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\SplashScreen.dll
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.CopyComplete
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.Login_Parollar.resources
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Avtotest1.mdf
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Avtotest1_log.ldf
+C:\Users\PC-SHOP\source\repos\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Litsenziya.resources
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Avtotest1.mdf
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Avtotest1_log.ldf
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.exe.config
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.exe
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.pdb
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Guna.UI2.dll
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\SplashScreen.dll
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.AssemblyReference.cache
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.SuggestedBindingRedirects.cache
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Admin.resources
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.Login_Parollar.resources
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SavolQoshish.resources
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SavolTahrirlash.resources
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SKorishVaOchirish.resources
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Form1.resources
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Litsenziya.resources
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Loading.resources
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Properties.Resources.resources
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.TalabaNatija.resources
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.TestBoshlash.resources
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.testishlash.resources
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.GenerateResource.cache
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.CoreCompileInputs.cache
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.CopyComplete
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.exe
+D:\install\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.pdb
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Avtotest1.mdf
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Avtotest1_log.ldf
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.exe.config
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.exe
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.pdb
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Guna.UI2.dll
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\SplashScreen.dll
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Admin.resources
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.Login_Parollar.resources
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SavolQoshish.resources
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SavolTahrirlash.resources
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SKorishVaOchirish.resources
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Form1.resources
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Litsenziya.resources
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Loading.resources
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Properties.Resources.resources
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.TalabaNatija.resources
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.TestBoshlash.resources
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.testishlash.resources
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.GenerateResource.cache
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.CoreCompileInputs.cache
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.CopyComplete
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.exe
+g:\video darslar\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.pdb
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Avtotest1.mdf
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Avtotest1_log.ldf
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.exe.config
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.exe
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Oqituvchi_test.pdb
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\Guna.UI2.dll
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\bin\Debug\SplashScreen.dll
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Admin.resources
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.Login_Parollar.resources
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SavolQoshish.resources
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SavolTahrirlash.resources
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Buttonlar.SKorishVaOchirish.resources
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Form1.resources
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Litsenziya.resources
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Loading.resources
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Properties.Resources.resources
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.TalabaNatija.resources
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.TestBoshlash.resources
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.Talaba.testishlash.resources
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.GenerateResource.cache
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.CoreCompileInputs.cache
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.csproj.CopyComplete
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.exe
+E:\shavkat\shavkat\shavkat\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\Oqituvchi_test\obj\Debug\Oqituvchi_test.pdb

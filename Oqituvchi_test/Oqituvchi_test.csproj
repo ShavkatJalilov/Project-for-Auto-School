@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2C327136-9B19-4B24-BA03-50BCC439F714}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Oqituvchi_test</RootNamespace>
+    <AssemblyName>Oqituvchi_test</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.3.2, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.3.2\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="SplashScreen, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SplashScreen.Winforms.1.0.0\lib\SplashScreen.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buttonlar\Login_Parollar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buttonlar\Login_Parollar.Designer.cs">
+      <DependentUpon>Login_Parollar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buttonlar\SavolQoshish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buttonlar\SavolQoshish.Designer.cs">
+      <DependentUpon>SavolQoshish.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buttonlar\SavolTahrirlash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buttonlar\SavolTahrirlash.Designer.cs">
+      <DependentUpon>SavolTahrirlash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buttonlar\SKorishVaOchirish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buttonlar\SKorishVaOchirish.Designer.cs">
+      <DependentUpon>SKorishVaOchirish.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FonRangi.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Litsenziya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Litsenziya.Designer.cs">
+      <DependentUpon>Litsenziya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Talaba\TalabaNatija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Talaba\TalabaNatija.Designer.cs">
+      <DependentUpon>TalabaNatija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Talaba\TestBoshlash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Talaba\TestBoshlash.Designer.cs">
+      <DependentUpon>TestBoshlash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Talaba\testishlash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Talaba\testishlash.Designer.cs">
+      <DependentUpon>testishlash.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buttonlar\Login_Parollar.resx">
+      <DependentUpon>Login_Parollar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buttonlar\SavolQoshish.resx">
+      <DependentUpon>SavolQoshish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buttonlar\SavolTahrirlash.resx">
+      <DependentUpon>SavolTahrirlash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buttonlar\SKorishVaOchirish.resx">
+      <DependentUpon>SKorishVaOchirish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Litsenziya.resx">
+      <DependentUpon>Litsenziya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Talaba\TalabaNatija.resx">
+      <DependentUpon>TalabaNatija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Talaba\TestBoshlash.resx">
+      <DependentUpon>TestBoshlash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Talaba\testishlash.resx">
+      <DependentUpon>testishlash.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oddiy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Avtotest1.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Avtotest1_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Avtotest1.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\photo_2022-10-20_12-03-25.jpg" />
+    <None Include="Resources\photo_2022-10-19_10-15-48.jpg" />
+    <None Include="Resources\login-interface-username-and-password-vector-19608291.jpg" />
+    <None Include="Resources\avtotest.png" />
+    <None Include="Resources\avtotest1.png" />
+    <None Include="Resources\login-interface-username-and-password-vector-1960829.jpg" />
+    <None Include="Resources\testishlashi1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
